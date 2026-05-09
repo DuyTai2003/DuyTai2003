@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào / Hello / 你好 / 你好
+# 👋 Xin chào / Hello / 你好
 
 ### Nguyễn Trường Duy (阮長維)
 
