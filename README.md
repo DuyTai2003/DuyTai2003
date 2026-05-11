@@ -37,6 +37,7 @@
 | [🎓 Taiwan Scholarship Finder](https://github.com/DuyTai2003/taiwan-scholarship-finder) | Scholarship search tool for Vietnamese students — 4 languages, GSAP animations | React · Vite · GSAP · Framer Motion |
 | [📚 Đọc Sách Nè](https://github.com/DuyTai2003/doc-sach) | Cross-platform offline book reader — EPUB, PDF, CBZ, TXT | React · Capacitor · Electron · PWA |
 | [🔍 Taiwan Scholarship Search](https://github.com/DuyTai2003/taiwan-scholarship-search) | Original HTML/JS version — lightweight, fast, GitHub Pages deployed | HTML · CSS · JavaScript |
+| [🚀 AI Commerce Agent ] (https://github.com/DuyTai2003/AI-Commerce-Agent) | AI-powered 1688.com product localization tool for Vietnamese e-commerce. $0 operating cost. 4-language UI | Next.js 16 · TypeScript · Tailwind CSS v4 · Gemini · Shadcn/UI · Lucide React · Netlify |
 
 ### 📊 GitHub Stats
 
